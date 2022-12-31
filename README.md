@@ -1,1 +1,1 @@
-# rsschool-cv
+https://oshandyba.github.io/rsschool-cv/cv
