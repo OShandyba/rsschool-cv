@@ -1,11 +1,14 @@
 
 ## **Oleh Shandyba**
+-------
 
-##### Language:
+#### Language:  
+
 * English - B1
 * Ukrainian/Russian - native
+---
 
-#### **Frontend Developer**
+#### ***Frontend Developer***
 
 #### **Contact information:**
 
@@ -13,20 +16,22 @@
 
 **E-mail:** OlehShandybaGit@gmail.com
 
-[Here is my LinkedIn](https://www.linkedin.com/in/oleh-shandyba/)
+[Here is my LinkedIn - linkedin.com/in/oleh-shandyba/](https://www.linkedin.com/in/oleh-shandyba/)
 
-[Github](https://github.com/OShandyba)
+[Github - github.com/OShandyba](https://github.com/OShandyba)
 
+---
 #### **Summary**
 An open-minded software engineer with a passion for developing and
 learning all new tech. Junior front-end developer who able to effectively selfmanage during independent projects, as well as collaborate as part of a productive team.
 Deeply interested in full-stack development, and want to improve my skills in that way.
 
+---
 #### **Technical skills**
 * Programming language:
     + Java Script
 * Technologies&Frameworks:
-    + CSS
+    + CSS  
     + HTML5
     + RactJS
     + Redux
@@ -36,6 +41,7 @@ Deeply interested in full-stack development, and want to improve my skills in th
     + Docker compose
     + GIT
 
+---
 #### **Code Example**
 ```
 resetButton.addEventListener("click", function (event) {
@@ -49,3 +55,5 @@ resetButton.addEventListener("click", function (event) {
     isFinished = false
 })
 ```
+
+---
